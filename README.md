@@ -169,7 +169,7 @@ export class AppModule { }
 ~~~
 
 ## OUTPUT:
-![output](sarveshmc.jpeg
+![](sarveshmc.jpeg)
 
 ### Home Page:
 
